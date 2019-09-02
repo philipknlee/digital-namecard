@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Kwang Ngee,Philip;Lee ;;;
+N:Lee; Kwang Ngee,Philip ;;;
 FN: Lee Kwang Ngee, Philip 
 ORG:Ngee Ann Polytechnic;
 TITLE:Office of Internships & Careers, Assistant Director (Internships and Industry Liaison) 
 EMAIL;type=INTERNET;type=WORK;type=pref:philip_lee@np.edu.sg
-TEL;type=WORK;type=VOICE:+65 6460 8198\n +65 9694 5164
-item1.ADR;type=WORK;type=pref:;;Blk 27, #01-18, 535 Clementi Road\n ;;; Singapore 599489
+TEL;type=WORK;type=VOICE:+65 9694 5164 ;;;+65 6460 8198
+item1.ADR;type=WORK;type=pref:;;Blk 27, #01-18, 535 Clementi Road ;;;Singapore 599489
 item1.X-ABADR:sg
 item2.URL;type=pref:www.np.edu.sg
 item2.X-ABLabel:_$!<HomePage>!$_
