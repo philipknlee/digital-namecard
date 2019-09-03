@@ -11,8 +11,7 @@ TEL;type=WORK;type=VOICE:+65 6460 8198
 item1.ADR;type=WORK;type=pref:;;Blk 27, #01-18, 535 Clementi Road ;;;Singapore 599489
 item1.X-ABADR:sg
 item2.URL;type=pref:www.np.edu.sg
-item2.URL;type=pref:www.linkedin.com/in/philipknlee
-item2.X-ABLabel:<Company HomePage>
+item2.X-ABLabel:<Company Page>
 item3.URL;type=pref:www.linkedin.com/in/philipknlee
 item3.X-ABLabel:<LinkedIn>
 END:VCARD
